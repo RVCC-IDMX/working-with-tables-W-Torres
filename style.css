@@ -1,3 +1,79 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+
+border: solid #34cdf9;
+margin: auto;
+padding: 1rem;
+background-color: #333333;
+color: #ffcc67;
+text-align: center;
+
+}
+
+.Source {
+
+  text-align: center;
+  font-size: 25px;
+
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-97en {
+  background-color: #ffcc67;
+  border-color: #000000;
+  color: #000000;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  font-size: 32px;
+  text-align: left;
+  vertical-align: top
+}
+
+.tg .tg-7d4c {
+  background-color: #34cdf9;
+  border-color: #000000;
+  color: #000000;
+  font-family: Impact, Charcoal, sans-serif !important;
+  font-size: 24px;
+  text-align: left;
+  vertical-align: top
+}
+
+.tg .tg-ktf4 {
+  background-color: #333333;
+  border-color: #34cdf9;
+  color: #ffffff;
+  font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+  font-size: 20px;
+  text-align: left;
+  vertical-align: top
 }
